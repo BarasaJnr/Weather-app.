@@ -59,7 +59,7 @@
   
   .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 0 15px;
   }
@@ -83,7 +83,7 @@
     font-family: "Times New Roman", Times, serif;
     font-size: 20px;
     display: inline;
-    margin-left: 420px;
+    margin-left: 12px;
     text-transform: uppercase;
   }
   li a {
